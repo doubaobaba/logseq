@@ -1,0 +1,9 @@
+- [[Permanent notes]]
+- [[Research ideas]]
+- [[literature notes]]
+- Topics
+	- [[Coding languages]]
+		- [[C++]]
+		- [[Java]]
+		- [[Python]]
+	- [[Computer Basics]]
