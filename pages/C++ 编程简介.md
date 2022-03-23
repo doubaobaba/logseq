@@ -1,0 +1,25 @@
+- 课程目标
+	- 基于对象(Object Based)
+		- 面对的是单一 class 的设计
+		- class without pointer members - Complex(复数)
+		- class with pointer members - String
+	- 面向对象(Object Oriented)
+		- 面对的是多重 classes 的设计，Classes 之间有关系
+			- 继承(inheritance)
+			- 复合(composition)
+			- 委托(delegation)
+- C++ 历史
+	- B 语言(1969)
+	- C 语言(1972)
+	- C++ 语言(1983)
+	  (new C -> C with Class -> C++)
+	- Java 语言
+	- C# 语言
+- C++ 的学习
+	- C++ 语言
+	- C++ 标准库
+- C++ 开发环境(饥人谷）
+	- Linux
+		- 编译器：gcc
+		- IDE：Clion
+	- C++ 的标准库都包含在 `std` 的命名空间里
