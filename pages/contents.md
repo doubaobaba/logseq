@@ -18,6 +18,7 @@
 		- [[Deep Learning]]
 	- [[Linux]]
 	- [[Math]]
+		- [[向量]]
 		- [[Matrix]]
 		- [[Geometry]]
 	- [[Physics]]
