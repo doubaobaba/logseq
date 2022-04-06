@@ -1,0 +1,11 @@
+- `std::move(a);`
+- `static_cast<Cls &&>(a)`
+- 调用返回右值引用的函数
+	- `std::move(a);`
+- 把某个对象转换成右值引用
+	- `static_cast<Cls &&>(a);`
+- 某个将亡值的成员
+	- `std::move(a).name;`
+- 某个将亡值数组的元素
+	- `std::move(arr)[4];`
+- 其他的都是 [[prvalue]]，即临时对象
