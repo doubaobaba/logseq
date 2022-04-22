@@ -1,0 +1,6 @@
+- 三根柱子，第一根放从下到上从大到小的圆盘，要求每次挪动一个圆盘，且大盘不能落在小盘上，把第一根上的圆盘全部放到第三根圆盘 [[递归]]应用
+- ```
+  #include<iostream>
+  using namespace std;
+  void move(int m, char x, char y, char z)
+  ```
