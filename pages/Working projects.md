@@ -1,2 +1,3 @@
 - [[Interactive Image-Guided Modeling of Extruded Shapes]]
+- [[可变毛绒玩具装箱]]
 -
