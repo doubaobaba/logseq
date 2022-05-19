@@ -1,0 +1,3 @@
+file-path:: ../assets/Packing_Irregular_Objects_in_3D_Space_via_Hybrid_Optimization_-_Ma_-_2018_-_1652874076655_0.pdf
+file:: [Packing_Irregular_Objects_in_3D_Space_via_Hybrid_Optimization_-_Ma_-_2018_-_1652874076655_0.pdf](../assets/Packing_Irregular_Objects_in_3D_Space_via_Hybrid_Optimization_-_Ma_-_2018_-_1652874076655_0.pdf)
+title:: hls__Packing_Irregular_Objects_in_3D_Space_via_Hybrid_Optimization_-_Ma_-_2018_-_1652874076655_0
