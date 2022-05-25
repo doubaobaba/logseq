@@ -29,6 +29,13 @@
 	  ![image.png](../assets/image_1653403135601_0.png)
 	- 包括 contain 条件的写法
 	  ![image.png](../assets/image_1653403166859_0.png)
-	-
-	-
-	-
+	- Dictionaries
+		- 字典就是意义对应的关系，用之前放个 `d`
+		- ![image.png](../assets/image_1653444468736_0.png)
+	- ![image.png](../assets/image_1653444850159_0.png)
+- Sets，集合，不同数组的无序组合
+	- ![image.png](../assets/image_1653444975667_0.png)
+- Tuples
+	- 像 list，元素不能改变，但可以作为 dictionaries 或者 elements 的元素
+	- ![image.png](../assets/image_1653445683782_0.png)
+-
