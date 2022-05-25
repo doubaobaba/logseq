@@ -1,0 +1,9 @@
+- Big Three，三个特殊函数：拷贝构造、拷贝赋值、析构函数
+	- 存字符串的位置最好是能 [[动态分配]] ，因为不知道到底有多大
+	- `String(const char* cstr = 0);` 函数名和类名相同，是一个构造函数
+	- `String(const String& str);` 也是一个构造函数，但接收的是他自己 `String &` 这种东西，所以叫拷贝构造
+	- `String& operator = (const String& str);` 本身是操作符重载，赋值 `=` 的右手边是它自己，所以叫拷贝赋值
+	- `~String();` 函数名和类名相同，前面加个 `~`，叫析构函数
+	- `char* get_c_str() const {return m_data;}` 一般的成员函数，传回来的是指针，不改变 data，所以一定要加上 const
+	- ![img](https://gitee.com/doubaoBABAQ/joplin-pics/raw/master/image_1646315049976_0.png)
+-
