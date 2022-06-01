@@ -1,3 +1,4 @@
 - [[Interactive Image-Guided Modeling of Extruded Shapes]]
-- [[可变毛绒玩具装箱]]
+- ~~[[可变毛绒玩具装箱]]~~
+- [[草图生成设计]]
 -

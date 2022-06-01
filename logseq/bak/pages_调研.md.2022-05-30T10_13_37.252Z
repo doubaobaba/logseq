@@ -1,0 +1,116 @@
+- # 另一个思路：柔体物理引擎模拟装箱
+	-
+-
+- 思路
+  collapsed:: true
+	- 给定的毛绒玩具模型，考虑玩具的折叠和轻微挤压（计算部分）
+	- 模型装箱算法
+		- 先调研现有的物流系统刚体模型交叉论文
+		- 最多装入玩具数量和装箱方式
+	- 模型装箱考虑因素
+	  collapsed:: true
+		- 大小
+		- 物理形变（？）
+			- 如果考虑到挤压，那物理条件太复杂了，这个要仔细调研是用什么方法解决
+	- 可视化呈现
+- 考虑
+  collapsed:: true
+	- 体积、折叠、形变量
+- ## 可变毛绒玩具想法
+  collapsed:: true
+	- 需求：不同的模型需要自动完成形变并装袋
+	- 现有模型上进行进行分析，格式：.obj / .mtl
+	-
+- ## 装箱算法
+  collapsed:: true
+	- NP-hard Problem，
+	- 不规则物体装箱的算法基本是**启发式**的，但一类启发式算法可能只适用于求解某种或某些业务场景中的装箱问题，可迁移性低
+	-
+- ## 装箱算法想法
+	- 想法 1：由论文 [[A Global Search Framework for Practical  Three-Dimensional Packing with Variable Carton Orientations]] 得到的启发，先把毛绒玩具装进最小尺寸的 cartoons，再用 3D-BPP 的方法，将 cartoons 装进 bin，实现装箱
+	- 想法 2：由论文 [[通过多边形逼近不规则三维物品装箱]] 和 [[三维容器空间中不规则物体填充]] 启发，先计算模型能怎么折叠或者形变到最小，再用多边形去切模型，最后装箱
+	- 想法 3：由论文 [[基于强化学习的三维装箱问题研究]] 和 [[菜鸟物流深度强化学习实现不同尺寸不规则物体装箱]] 启发，算出可形变模型折叠后的？？？（这部分论文还没调研）之后，制作足够多的毛绒玩具装箱单（只需要记录毛绒玩具尺寸、方向、数量，以及箱子的大小规格等，不需要装箱结果），用深度强化学习预训练模型训练得到智能体，再放到环境训练
+- ## 未确认的问题
+  collapsed:: true
+	- 能算出模型到最小吗，图形学的论文还没调研，最后输出的参数是什么
+	- 如果用 DRL，数据集是什么
+	- 无论是用启发式算法还是 DRL，都有一个问题就是还有模型的数据要处理，复杂度会直线上升
+	- 如果是用传统的启发式算法，论文不能直接借鉴，变动的点太多了
+- ## 可视化想法
+  collapsed:: true
+	- 模型与装箱都兼容的可视化方法
+- ## 模型现有的研究
+  collapsed:: true
+	- ~~[[游戏模型自动展UV]]~~（与需要的不一样）
+	-
+- ## 装箱现有的研究
+  collapsed:: true
+	- [[三维容器空间中不规则物体填充]]
+		- ESGP，B 类
+	- [[通过多边形逼近不规则三维物品装箱]]
+		- 国际自动控制联合会
+	-
+	- 经典论文
+		- [[OPTIMIZING THREE-DIMENSIONAL BIN PACKING THROUGH SIMULATION]]（启发式算法）
+		- [[Issues in the development of approaches to container loading]]
+	- 常用装箱算法类型
+		- 启发式算法
+		  collapsed:: true
+			- 特点
+			  collapsed:: true
+				- 运用数学工具进行求解
+				- 适合解决不是很复杂的装箱问题
+			- [[Heuristic algorithms for the three-dimensional bin packing problem]]
+				- 禁忌搜索算法框架实现装箱
+		- 遗传算法
+		  collapsed:: true
+			- [[基于改进遗传算法的航空集装箱装载问题研究]]
+			- [[A Global Search Framework for Practical  Three-Dimensional Packing with Variable Carton Orientations]]
+				- 提出 3D-SPP 遗传算法
+			- 同一尺寸普通快递箱
+				- [[Research on Three-Dimensional Packing Model and Analysis  of Spatial Algorithms for Distribution Center]]
+				- [[The Three-Dimensional Bin Packing Problem]]
+		- 强化学习算法
+		  collapsed:: true
+			- 强化学习最大的问题是数据集，论文调研中的数据集是装箱单，输入数据。但这个项目的数据集是模型尺寸，感觉复杂了太多了
+			- [[基于强化学习的三维装箱问题研究]]
+			-
+	- 不晓得有没有用的
+		- 极端条件软球压实
+		  collapsed:: true
+			- https://pubs.rsc.org/en/content/articlehtml/2021/sm/d1sm01241j
+			- 是力学理论分析，快跑
+		- 结合物联网做物流装箱
+		  collapsed:: true
+			- https://ieeexplore.ieee.org/abstract/document/7924336
+		- 领域搜索
+		  collapsed:: true
+			- 在三维装箱问题中，启发式算法产生新解的方式：
+			- 《三维装箱问题的组合启发式算法》
+			- （1）改变两类箱子的装填顺序
+			- （2）交换某类箱子的任意两个尺寸
+			- 《A novel hybrid tabu search approach to container loading》
+			- （1）交换任意两个解在集装箱中的位置
+- 废弃调研归档
+  collapsed:: true
+	- 三维装箱算法
+	  collapsed:: true
+	  （毛绒玩具的可变性决定最合适的算法）
+		- 混合遗传算法
+			- 毛绒玩具的摆放方向、形态
+		- 模拟退火算法
+		- 启发式打包算法
+		- 禁忌搜索算法（空间搜索算法）
+	- ~~可变球体压缩量~~
+		- [[可变球体的无序填充装箱]]
+	- ~~毛绒玩具肌张力动画实现，主要看是怎么挤压的~~
+	  collapsed:: true
+		- [[Interactive Design of Animated Plushies]]
+	- ~~毛绒玩具交互式设计系统实现~~
+	  collapsed:: true
+		- [[Plushie: an interactive design system for plush toys]]
+		- [[Pillow: Interactive Flattening of a 3D Model for Plush Toy Design]]
+- 难点
+  collapsed:: true
+	- 毛绒玩具的交叉，是现有论文都没有考虑进去的约束条件
+-
