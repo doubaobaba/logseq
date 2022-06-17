@@ -1,4 +1,5 @@
 - [[二分分类]]
 - [[ResNet]]
 - [[AlexNet]]
+- [[DETR]]
 -

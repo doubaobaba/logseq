@@ -1,0 +1,15 @@
+- 算法
+	- DETR 模型最后输出是一个固定的集合，无论输入是什么，最后都会输出 N 个输出
+	- 问题：DETR 每次都会输出 100 个输出，但一张图片的 Ground Truth 的 banding box 只有几个，如果做匹配，去算 loss
+	- 解决：将问题转换成 [[二分图匹配问题]]，用 scipy 包里的 $linear-sum-assignment$ 函数
+		- 于是把 abc 看成 DETR 的 100 个框，xyz 看成是 ground truth 的框（cost matrix 不一定是正方形）
+		- cost matrix 最后输出的是 loss，用函数计算 ![9d6f19c23ca34d9e05c4b6abcde54ce.png](../assets/9d6f19c23ca34d9e05c4b6abcde54ce_1655436916316_0.png)
+			- $+$ 号前分类 loss，后出框准确度 loss
+	- 最后的目标函数 ![9285226453376829a88769365eb9711.png](../assets/9285226453376829a88769365eb9711_1655437055170_0.png)
+		- 依然是分类的 loss 和出框的 loss
+		- 出框处用了generalized iou loss（与框大小无关的目标函数）和 $L_1 loss$ 的合体，是因为用了 Transformer 的全局特征，对大物体友好，经常出大框，这也导致了 loss 会更大，所以这里不止使用 $L_1 loss$
+	- 整体网络框架
+	  ![415b33813e18567e7866790f39c40bb.png](../assets/415b33813e18567e7866790f39c40bb_1655437368259_0.png)
+		-
+	-
+- 写法上回避自己的劣势
