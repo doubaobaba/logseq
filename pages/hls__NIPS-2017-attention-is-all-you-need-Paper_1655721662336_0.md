@@ -18,3 +18,13 @@ title:: hls__NIPS-2017-attention-is-all-you-need-Paper_1655721662336_0
   ls-type:: annotation
   hl-page:: 9
   id:: 62b05374-42cb-43f5-885c-24f8925fadbf
+- auto-regressive
+  ls-type:: annotation
+  hl-page:: 2
+  id:: 62b1ab30-7555-40ed-badf-64282aec2c28
+- [:span]
+  ls-type:: annotation
+  hl-page:: 3
+  id:: 62b1ad52-c75c-42fe-b65a-39963370b138
+  hl-type:: area
+  hl-stamp:: 1655811409198

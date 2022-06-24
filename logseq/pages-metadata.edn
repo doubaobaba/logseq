@@ -5,21 +5,21 @@
   :block/created-at 1654100504024,
   :block/updated-at 1654100504024}
  {:block/name "2012",
-  :block/created-at 1654100506966,
-  :block/updated-at 1654100506966}
+  :block/created-at 1655432508168,
+  :block/updated-at 1655432508168}
  {:block/name "2014",
   :block/created-at 1652448856347,
   :block/updated-at 1652448856347}
  {:block/name "2015-12",
-  :block/created-at 1654100505473,
-  :block/updated-at 1654100505473}
+  :block/created-at 1655432507031,
+  :block/updated-at 1655432507031}
  {:block/name "2020",
-  :block/created-at 1654100506379,
-  :block/updated-at 1654100506379}
+  :block/created-at 1655432507639,
+  :block/updated-at 1655432507639}
  {:block/name
   "2020 international conference on virtual reality and visualization (icvrv)",
-  :block/created-at 1654100506380,
-  :block/updated-at 1654100506380}
+  :block/created-at 1655432507641,
+  :block/updated-at 1655432507641}
  {:block/name "2021",
   :block/created-at 1654100504313,
   :block/updated-at 1654100504313}
@@ -30,8 +30,8 @@
   :block/created-at 1654100505992,
   :block/updated-at 1654100505992}
  {:block/name "3d-printing",
-  :block/created-at 1654100509250,
-  :block/updated-at 1654100509250}
+  :block/created-at 1655432510488,
+  :block/updated-at 1655432510488}
  {:block/name "a",
   :block/created-at 1648385401635,
   :block/updated-at 1648385401635}
@@ -40,17 +40,20 @@
   :block/created-at 1654100502555,
   :block/updated-at 1654100502555}
  {:block/name "a. pankratov",
-  :block/created-at 1654100509256,
-  :block/updated-at 1654100509256}
+  :block/created-at 1655432510498,
+  :block/updated-at 1655432510498}
  {:block/name "academic phrases",
   :block/created-at 1651491755250,
   :block/updated-at 1651491755250}
+ {:block/name "alexnet",
+  :block/created-at 1655432505157,
+  :block/updated-at 1655432505157}
  {:block/name "algorithm",
   :block/created-at 1648385401637,
-  :block/updated-at 1648385401637}
+  :block/updated-at 1652770071554}
  {:block/name "alla sheffer",
-  :block/created-at 1654100508041,
-  :block/updated-at 1654100508041}
+  :block/created-at 1655432509323,
+  :block/updated-at 1655432509323}
  {:block/name "andrea lodi",
   :block/created-at 1654100503118,
   :block/updated-at 1654100503118}
@@ -73,8 +76,8 @@
   :block/created-at 1651491755251,
   :block/updated-at 1651491755251}
  {:block/name "aug 19th, 2017",
-  :block/created-at 1654100508691,
-  :block/updated-at 1654100508691}
+  :block/created-at 1655432510105,
+  :block/updated-at 1655432510105}
  {:block/name "aug 1st, 1995",
   :block/created-at 1654100503628,
   :block/updated-at 1654100503628}
@@ -93,9 +96,12 @@
  {:block/name "big three",
   :block/created-at 1648385401637,
   :block/updated-at 1648385401637}
+ {:block/name "bleu",
+  :block/created-at 1655722485665,
+  :block/updated-at 1655722507726}
  {:block/name "boundary-detection",
-  :block/created-at 1654101283730,
-  :block/updated-at 1654101283730}
+  :block/created-at 1655432508591,
+  :block/updated-at 1655432508591}
  {:block/name "c",
   :block/created-at 1648385401637,
   :block/updated-at 1648385401637}
@@ -112,17 +118,17 @@
   :block/created-at 1648385401635,
   :block/updated-at 1648385401635}
  {:block/name "c. c. smith",
-  :block/created-at 1654100505475,
-  :block/updated-at 1654100505475}
+  :block/created-at 1655432507032,
+  :block/updated-at 1655432507032}
  {:block/name "card",
   :block/created-at 1648385401636,
   :block/updated-at 1648385401636}
  {:block/name "chang liu",
-  :block/created-at 1654100506981,
-  :block/updated-at 1654100506981}
+  :block/created-at 1655432508174,
+  :block/updated-at 1655432508174}
  {:block/name "chang yu",
-  :block/created-at 1654100506382,
-  :block/updated-at 1654100506382}
+  :block/created-at 1655432507643,
+  :block/updated-at 1655432507643}
  {:block/name "class 的声明",
   :block/created-at 1648385401637,
   :block/updated-at 1648385401637}
@@ -133,8 +139,8 @@
   :block/created-at 1648385401637,
   :block/updated-at 1648385401637}
  {:block/name "collision-detection",
-  :block/created-at 1654100506962,
-  :block/updated-at 1654100506962}
+  :block/created-at 1655432508164,
+  :block/updated-at 1655432508164}
  {:block/name "computational-design",
   :block/created-at 1654100503180,
   :block/updated-at 1654100503180}
@@ -148,8 +154,8 @@
   :block/created-at 1648385401635,
   :block/updated-at 1648385401635}
  {:block/name "computer-science---artificial-intelligence",
-  :block/created-at 1654100508687,
-  :block/updated-at 1654100508687}
+  :block/created-at 1655432510102,
+  :block/updated-at 1655432510102}
  {:block/name "conference paper",
   :block/created-at 1654100504028,
   :block/updated-at 1654100504028}
@@ -163,17 +169,17 @@
   :block/created-at 1648099739281,
   :block/updated-at 1651804331688}
  {:block/name "convolutional-neural-networks",
-  :block/created-at 1654101283729,
-  :block/updated-at 1654101283729}
+  :block/created-at 1655432508590,
+  :block/updated-at 1655432508590}
  {:block/name "cookie 的作用",
   :block/created-at 1648385401637,
   :block/updated-at 1648385401637}
  {:block/name "coupling",
-  :block/created-at 1654100506376,
-  :block/updated-at 1654100506376}
+  :block/created-at 1655432507635,
+  :block/updated-at 1655432507635}
  {:block/name "couplings",
-  :block/created-at 1654100506375,
-  :block/updated-at 1654100506375}
+  :block/created-at 1655432507635,
+  :block/updated-at 1655432507635}
  {:block/name "cutting",
   :block/created-at 1654100503112,
   :block/updated-at 1654100503112}
@@ -181,8 +187,8 @@
   :block/created-at 1654100503117,
   :block/updated-at 1654100503117}
  {:block/name "danny m. kaufman",
-  :block/created-at 1654100508043,
-  :block/updated-at 1654100508043}
+  :block/created-at 1655432509326,
+  :block/updated-at 1655432509326}
  {:block/name "database",
   :block/created-at 1648385401638,
   :block/updated-at 1648385401638}
@@ -190,8 +196,8 @@
   :block/created-at 1654100504411,
   :block/updated-at 1654100504411}
  {:block/name "dec 31st, 2018",
-  :block/created-at 1654100508040,
-  :block/updated-at 1654100508040}
+  :block/created-at 1655432509322,
+  :block/updated-at 1655432509322}
  {:block/name "decltype",
   :block/created-at 1648095874448,
   :block/updated-at 1648096164354}
@@ -200,13 +206,16 @@
   :block/updated-at 1648099567316}
  {:block/name "deep learning",
   :block/created-at 1648385401635,
-  :block/updated-at 1648385401635}
+  :block/updated-at 1655715211529}
  {:block/name "deep-learning",
-  :block/created-at 1654101283728,
-  :block/updated-at 1654101283728}
+  :block/created-at 1655432508589,
+  :block/updated-at 1655432508589}
+ {:block/name "detr",
+  :block/created-at 1655434909827,
+  :block/updated-at 1655715153505}
  {:block/name "discrete-element-modelling",
-  :block/created-at 1654100505470,
-  :block/updated-at 1654100505470}
+  :block/created-at 1655432507027,
+  :block/updated-at 1655432507027}
  {:block/name "do while 语句",
   :block/created-at 1648385401637,
   :block/updated-at 1648385401637}
@@ -223,11 +232,14 @@
   :block/created-at 1654100503631,
   :block/updated-at 1654100503631}
  {:block/name "edge-detection",
-  :block/created-at 1654101283727,
-  :block/updated-at 1654101283727}
+  :block/created-at 1655432508588,
+  :block/updated-at 1655432508588}
+ {:block/name "end-to-end object detection with transformers",
+  :block/created-at 1655432509892,
+  :block/updated-at 1655714976997}
  {:block/name "engines",
-  :block/created-at 1654100506374,
-  :block/updated-at 1654100506374}
+  :block/created-at 1655432507634,
+  :block/updated-at 1655432507634}
  {:block/name "evolutionary-gradient",
   :block/created-at 1654100502543,
   :block/updated-at 1654100502543}
@@ -241,8 +253,8 @@
   :block/created-at 1648385401635,
   :block/updated-at 1648385401635}
  {:block/name "fusion",
-  :block/created-at 1654101283725,
-  :block/updated-at 1654101283725}
+  :block/created-at 1655432508587,
+  :block/updated-at 1655432508587}
  {:block/name "genetic-algorithm",
   :block/created-at 1654100502542,
   :block/updated-at 1654100502542}
@@ -250,8 +262,8 @@
   :block/created-at 1648385401637,
   :block/updated-at 1648385401637}
  {:block/name "geometry-modeling",
-  :block/created-at 1654100506960,
-  :block/updated-at 1654100506960}
+  :block/created-at 1655432508162,
+  :block/updated-at 1655432508162}
  {:block/name "global-search",
   :block/created-at 1654100502541,
   :block/updated-at 1654100502541}
@@ -259,8 +271,8 @@
   :block/created-at 1648385401635,
   :block/updated-at 1648385401635}
  {:block/name "haoyuan hu",
-  :block/created-at 1654100508696,
-  :block/updated-at 1654100508696}
+  :block/created-at 1655432510110,
+  :block/updated-at 1655432510110}
  {:block/name "heap objects",
   :block/created-at 1648385401637,
   :block/updated-at 1648385401637}
@@ -276,18 +288,22 @@
   :block/created-at 1651491755252,
   :block/updated-at 1651491755252}
  {:block/name
+  "hls__nips-2017-attention-is-all-you-need-paper_1655721662336_0",
+  :block/created-at 1655721940374,
+  :block/updated-at 1655721940374}
+ {:block/name
   "hls__packing_irregular_objects_in_3d_space_via_hybrid_optimization_-_ma_-_2018_-_1652874076655_0",
-  :block/created-at 1654100504783,
-  :block/updated-at 1654100504783}
+  :block/created-at 1655432505605,
+  :block/updated-at 1655432505605}
  {:block/name "hui sun",
   :block/created-at 1654100504318,
   :block/updated-at 1654100504318}
  {:block/name "husolvingnew3d2017 - comment 7 pages, 1 figures",
-  :block/created-at 1654100508699,
-  :block/updated-at 1654100508699}
+  :block/created-at 1655432510114,
+  :block/updated-at 1655432510114}
  {:block/name "i. litvinchev",
-  :block/created-at 1654100509257,
-  :block/updated-at 1654100509257}
+  :block/created-at 1655432510500,
+  :block/updated-at 1655432510500}
  {:block/name "if 语句",
   :block/created-at 1648385401635,
   :block/updated-at 1648385401635}
@@ -313,8 +329,8 @@
   :block/created-at 1654100504022,
   :block/updated-at 1654100504022}
  {:block/name "irregular-packing",
-  :block/created-at 1654100509249,
-  :block/updated-at 1654100509249}
+  :block/created-at 1655432510486,
+  :block/updated-at 1655432510486}
  {:block/name
   "issues in the development of approaches to container loading",
   :block/created-at 1654100503642,
@@ -323,8 +339,8 @@
   :block/created-at 1654100503186,
   :block/updated-at 1654100503186}
  {:block/name "jan 1st, 2019",
-  :block/created-at 1654100509253,
-  :block/updated-at 1654100509253}
+  :block/created-at 1655432510494,
+  :block/updated-at 1655432510494}
  {:block/name "java",
   :block/created-at 1648385401637,
   :block/updated-at 1648385401637}
@@ -334,15 +350,36 @@
  {:block/name "jul 13th, 2011",
   :block/created-at 1654100505994,
   :block/updated-at 1654100505994}
+ {:block/name "jun 17th, 2022",
+  :block/created-at 1655432504491,
+  :block/updated-at 1655432504491}
+ {:block/name "jun 18th, 2022",
+  :block/created-at 1655481619379,
+  :block/updated-at 1655481619379}
+ {:block/name "jun 19th, 2022",
+  :block/created-at 1655568017503,
+  :block/updated-at 1655568017503}
  {:block/name "jun 1st, 2022",
-  :block/created-at 1654101283732,
-  :block/updated-at 1654101283732}
- {:block/name "jun 2nd, 2022",
-  :block/created-at 1654100501816,
-  :block/updated-at 1654100501816}
+  :block/created-at 1655432508594,
+  :block/updated-at 1655432508594}
+ {:block/name "jun 20th, 2022",
+  :block/created-at 1655654415750,
+  :block/updated-at 1655654415750}
+ {:block/name "jun 21st, 2022",
+  :block/created-at 1655740814037,
+  :block/updated-at 1655740814037}
+ {:block/name "jun 22nd, 2022",
+  :block/created-at 1655827212212,
+  :block/updated-at 1655827212212}
+ {:block/name "jun 23rd, 2022",
+  :block/created-at 1655913610395,
+  :block/updated-at 1655913610395}
+ {:block/name "jun 24th, 2022",
+  :block/created-at 1656000008745,
+  :block/updated-at 1656000008745}
  {:block/name "justin solomon",
-  :block/created-at 1654100508041,
-  :block/updated-at 1654100508041}
+  :block/created-at 1655432509324,
+  :block/updated-at 1655432509324}
  {:block/name "kai-hung chang",
   :block/created-at 1654100503185,
   :block/updated-at 1654100503185}
@@ -350,8 +387,8 @@
   :block/created-at 1648385401637,
   :block/updated-at 1648385401637}
  {:block/name "leiting chen",
-  :block/created-at 1654100506968,
-  :block/updated-at 1654100506968}
+  :block/created-at 1655432508170,
+  :block/updated-at 1655432508170}
  {:block/name "linux",
   :block/created-at 1648385401638,
   :block/updated-at 1648385401638}
@@ -365,8 +402,8 @@
   :block/created-at 1654100502540,
   :block/updated-at 1654100502540}
  {:block/name "longfei wang",
-  :block/created-at 1654100508693,
-  :block/updated-at 1654100508693}
+  :block/created-at 1655432510107,
+  :block/updated-at 1655432510107}
  {:block/name "longkai zhou",
   :block/created-at 1654100504316,
   :block/updated-at 1654100504316}
@@ -374,11 +411,11 @@
   :block/created-at 1649257136833,
   :block/updated-at 1649257136833}
  {:block/name "m. gilbert",
-  :block/created-at 1654100505476,
-  :block/updated-at 1654100505476}
+  :block/created-at 1655432507034,
+  :block/updated-at 1655432507034}
  {:block/name "m. pytlos",
-  :block/created-at 1654100505477,
-  :block/updated-at 1654100505477}
+  :block/created-at 1655432507035,
+  :block/updated-at 1655432507035}
  {:block/name "m. s. w. ratcliff",
   :block/created-at 1654100503629,
   :block/updated-at 1654100503629}
@@ -392,8 +429,8 @@
   :block/created-at 1648385401635,
   :block/updated-at 1648385401635}
  {:block/name "mathematical-model",
-  :block/created-at 1654100509248,
-  :block/updated-at 1654100509248}
+  :block/created-at 1655432510484,
+  :block/updated-at 1655432510484}
  {:block/name "matrix",
   :block/created-at 1648385401636,
   :block/updated-at 1648385401636}
@@ -410,29 +447,29 @@
   :block/created-at 1654100505211,
   :block/updated-at 1654100505211}
  {:block/name "may 19th, 2022",
-  :block/created-at 1654100508039,
-  :block/updated-at 1654100508039}
+  :block/created-at 1655432509321,
+  :block/updated-at 1655432509321}
  {:block/name "may 22nd, 2022",
-  :block/created-at 1654100506965,
-  :block/updated-at 1654100506965}
+  :block/created-at 1655432508167,
+  :block/updated-at 1655432508167}
  {:block/name "may 23rd, 2022",
-  :block/created-at 1654100505472,
-  :block/updated-at 1654100505472}
+  :block/created-at 1655432507029,
+  :block/updated-at 1655432507029}
  {:block/name "minchen li",
-  :block/created-at 1654100508044,
-  :block/updated-at 1654100508044}
+  :block/created-at 1655432509327,
+  :block/updated-at 1655432509327}
  {:block/name "mpm",
-  :block/created-at 1654100506372,
-  :block/updated-at 1654100506372}
+  :block/created-at 1655432507633,
+  :block/updated-at 1655432507633}
  {:block/name "multi-scale-learning",
-  :block/created-at 1654101283724,
-  :block/updated-at 1654101283724}
+  :block/created-at 1655432508586,
+  :block/updated-at 1655432508586}
  {:block/name "multicriteria",
   :block/created-at 1654100503619,
   :block/updated-at 1654100503619}
  {:block/name "nonlinear-optimization",
-  :block/created-at 1654100509247,
-  :block/updated-at 1654100509247}
+  :block/created-at 1655432510481,
+  :block/updated-at 1655432510481}
  {:block/name "now",
   :block/created-at 1648385401638,
   :block/updated-at 1648385401638}
@@ -449,8 +486,8 @@
   :block/created-at 1648385401638,
   :block/updated-at 1648385401638}
  {:block/name "operation-research",
-  :block/created-at 1654100509246,
-  :block/updated-at 1654100509246}
+  :block/created-at 1655432510480,
+  :block/updated-at 1655432510480}
  {:block/name
   "optimizing three-dimensional bin packing through simulation",
   :block/created-at 1654100503898,
@@ -459,11 +496,11 @@
   :block/created-at 1654100502539,
   :block/updated-at 1654100502539}
  {:block/name "particle-scale-behaviour",
-  :block/created-at 1654100505469,
-  :block/updated-at 1654100505469}
+  :block/created-at 1655432507026,
+  :block/updated-at 1655432507026}
  {:block/name "pbd",
-  :block/created-at 1654100506371,
-  :block/updated-at 1654100506371}
+  :block/created-at 1655432507632,
+  :block/updated-at 1655432507632}
  {:block/name "permanent notes",
   :block/created-at 1648385401635,
   :block/updated-at 1648385401635}
@@ -471,8 +508,8 @@
   :block/created-at 1648385401636,
   :block/updated-at 1648385401636}
  {:block/name "physics-engine",
-  :block/created-at 1654100506369,
-  :block/updated-at 1654100506369}
+  :block/created-at 1655432507628,
+  :block/updated-at 1655432507628}
  {:block/name
   "pillow_ interactive flattening of a 3d model for plush toy design",
   :block/created-at 1654100504032,
@@ -491,8 +528,8 @@
   :block/updated-at 1648385401637}
  {:block/name
   "proceedings of 2012 2nd international conference on computer science and network technology",
-  :block/created-at 1654100506967,
-  :block/updated-at 1654100506967}
+  :block/created-at 1655432508169,
+  :block/updated-at 1655432508169}
  {:block/name "prvalue",
   :block/created-at 1649257136833,
   :block/updated-at 1649257136833}
@@ -506,23 +543,23 @@
   :block/created-at 1654100504315,
   :block/updated-at 1654100504315}
  {:block/name "quan xu",
-  :block/created-at 1654100506975,
-  :block/updated-at 1654100506975}
+  :block/created-at 1655432508171,
+  :block/updated-at 1655432508171}
  {:block/name "readme",
   :block/created-at 1648385401636,
   :block/updated-at 1648385401636}
  {:block/name "real-time-simulaiton",
-  :block/created-at 1654100506367,
-  :block/updated-at 1654100506367}
+  :block/created-at 1655432507627,
+  :block/updated-at 1655432507627}
  {:block/name "real-time-systems",
-  :block/created-at 1654100506366,
-  :block/updated-at 1654100506366}
+  :block/created-at 1655432507626,
+  :block/updated-at 1655432507626}
  {:block/name "reference",
   :block/created-at 1652448856336,
   :block/updated-at 1652448856336}
  {:block/name "report",
-  :block/created-at 1654100508697,
-  :block/updated-at 1654100508697}
+  :block/created-at 1655432510111,
+  :block/updated-at 1655432510111}
  {:block/name "research ideas",
   :block/created-at 1648385401634,
   :block/updated-at 1648385401634}
@@ -530,6 +567,9 @@
   "research on three-dimensional packing model and analysis  of spatial algorithms for distribution center",
   :block/created-at 1654100504322,
   :block/updated-at 1654100504322}
+ {:block/name "resnet",
+  :block/created-at 1655432505376,
+  :block/updated-at 1655432505376}
  {:block/name "robert de souza",
   :block/created-at 1654100502547,
   :block/updated-at 1654100502547}
@@ -540,8 +580,8 @@
   :block/created-at 1649257136834,
   :block/updated-at 1649257136834}
  {:block/name "saining xie",
-  :block/created-at 1654101283736,
-  :block/updated-at 1654101283736}
+  :block/created-at 1655432508598,
+  :block/updated-at 1655432508598}
  {:block/name "seam-design",
   :block/created-at 1654100504021,
   :block/updated-at 1654100504021}
@@ -591,8 +631,8 @@
   :block/created-at 1648385401636,
   :block/updated-at 1648385401636}
  {:block/name "t. romanova",
-  :block/created-at 1654100509255,
-  :block/updated-at 1654100509255}
+  :block/created-at 1655432510496,
+  :block/updated-at 1655432510496}
  {:block/name "tabu-search",
   :block/created-at 1654100503110,
   :block/updated-at 1654100503110}
@@ -614,21 +654,24 @@
  {:block/name "todo",
   :block/created-at 1648385401637,
   :block/updated-at 1648385401637}
+ {:block/name "transformer",
+  :block/created-at 1655715211528,
+  :block/updated-at 1655811711260}
  {:block/name "vector",
   :block/created-at 1648385401637,
   :block/updated-at 1648385401637}
  {:block/name "verlet-integration",
-  :block/created-at 1654100506958,
-  :block/updated-at 1654100506958}
+  :block/created-at 1655432508160,
+  :block/updated-at 1655432508160}
  {:block/name "virtual-reality",
-  :block/created-at 1654100506364,
-  :block/updated-at 1654100506364}
+  :block/created-at 1655432507625,
+  :block/updated-at 1655432507625}
  {:block/name "visualization",
-  :block/created-at 1654100506363,
-  :block/updated-at 1654100506363}
+  :block/created-at 1655432507621,
+  :block/updated-at 1655432507621}
  {:block/name "vladimir g. kim",
-  :block/created-at 1654100508042,
-  :block/updated-at 1654100508042}
+  :block/created-at 1655432509325,
+  :block/updated-at 1655432509325}
  {:block/name "volatile",
   :block/created-at 1648385401637,
   :block/updated-at 1648385401637}
@@ -651,14 +694,14 @@
   :block/created-at 1651491755253,
   :block/updated-at 1651491755253}
  {:block/name "xiang ji",
-  :block/created-at 1654100506979,
-  :block/updated-at 1654100506979}
+  :block/created-at 1655432508173,
+  :block/updated-at 1655432508173}
  {:block/name "xiaodong zhang",
-  :block/created-at 1654100508695,
-  :block/updated-at 1654100508695}
+  :block/created-at 1655432510109,
+  :block/updated-at 1655432510109}
  {:block/name "xiaowei yan",
-  :block/created-at 1654100508694,
-  :block/updated-at 1654100508694}
+  :block/created-at 1655432510108,
+  :block/updated-at 1655432510108}
  {:block/name "xvalue",
   :block/created-at 1649257136833,
   :block/updated-at 1649257136833}
@@ -669,17 +712,17 @@
   :block/created-at 1654100502549,
   :block/updated-at 1654100502549}
  {:block/name "yilong wu",
-  :block/created-at 1654100506383,
-  :block/updated-at 1654100506383}
+  :block/created-at 1655432507644,
+  :block/updated-at 1655432507644}
  {:block/name "yinghui xu",
-  :block/created-at 1654100508692,
-  :block/updated-at 1654100508692}
+  :block/created-at 1655432510106,
+  :block/updated-at 1655432510106}
  {:block/name "yong wu",
   :block/created-at 1654100502548,
   :block/updated-at 1654100502548}
  {:block/name "yue cao",
-  :block/created-at 1654100506976,
-  :block/updated-at 1654100506976}
+  :block/created-at 1655432508172,
+  :block/updated-at 1655432508172}
  {:block/name "yuki igarashi",
   :block/created-at 1654100504027,
   :block/updated-at 1654100504027}
@@ -690,8 +733,8 @@
   :block/created-at 1652448856354,
   :block/updated-at 1652448856354}
  {:block/name "zhuowen tu",
-  :block/created-at 1654101283735,
-  :block/updated-at 1654101283735}
+  :block/created-at 1655432508597,
+  :block/updated-at 1655432508597}
  {:block/name "zotero",
   :block/created-at 1652448856340,
   :block/updated-at 1652448856340}
@@ -705,8 +748,8 @@
   :block/created-at 1648385401637,
   :block/updated-at 1648385401637}
  {:block/name "三维容器空间中不规则物体填充",
-  :block/created-at 1654100505222,
-  :block/updated-at 1654100505222}
+  :block/created-at 1655432506474,
+  :block/updated-at 1655432506474}
  {:block/name "个人杠杆",
   :block/created-at 1651808818975,
   :block/updated-at 1651809693603}
@@ -714,8 +757,11 @@
   :block/created-at 1648385401635,
   :block/updated-at 1648385401635}
  {:block/name "二分分类",
-  :block/created-at 1654100503066,
-  :block/updated-at 1654100503066}
+  :block/created-at 1655432505375,
+  :block/updated-at 1655432505375}
+ {:block/name "二分图匹配问题",
+  :block/created-at 1655436658698,
+  :block/updated-at 1655436706894}
  {:block/name "二级市场",
   :block/created-at 1651805053914,
   :block/updated-at 1651805322017}
@@ -732,8 +778,8 @@
   :block/created-at 1651807744826,
   :block/updated-at 1651807744826}
  {:block/name "使用物理引擎对粒状土壤行为进行建模",
-  :block/created-at 1654100505479,
-  :block/updated-at 1654100505479}
+  :block/created-at 1655432507038,
+  :block/updated-at 1655432507038}
  {:block/name "做多",
   :block/created-at 1651804112247,
   :block/updated-at 1651804383252}
@@ -753,8 +799,8 @@
   :block/created-at 1648385401637,
   :block/updated-at 1648385401637}
  {:block/name "凹多面体的数学建模方法装箱",
-  :block/created-at 1654100505221,
-  :block/updated-at 1654100505221}
+  :block/created-at 1655432506473,
+  :block/updated-at 1655432506473}
  {:block/name "函数",
   :block/created-at 1648385401637,
   :block/updated-at 1648385401637}
@@ -764,12 +810,15 @@
  {:block/name "函数重载",
   :block/created-at 1648385401637,
   :block/updated-at 1648385401637}
+ {:block/name "分类器",
+  :block/created-at 1655432507400,
+  :block/updated-at 1655432507400}
  {:block/name "动态分配",
   :block/created-at 1648385401637,
   :block/updated-at 1648385401637}
  {:block/name "十二月 1, 2017",
-  :block/created-at 1654101283734,
-  :block/updated-at 1654101283734}
+  :block/created-at 1655432508595,
+  :block/updated-at 1655432508595}
  {:block/name "参数传递",
   :block/created-at 1648385401637,
   :block/updated-at 1648385401637}
@@ -807,8 +856,8 @@
   :block/created-at 1648385401635,
   :block/updated-at 1648385401635}
  {:block/name "基于mpm和pbd的实时物理引擎",
-  :block/created-at 1654100506387,
-  :block/updated-at 1654100506387}
+  :block/created-at 1655432507648,
+  :block/updated-at 1655432507648}
  {:block/name "基于强化学习的三维装箱问题研究",
   :block/created-at 1654100506430,
   :block/updated-at 1654100506430}
@@ -825,8 +874,8 @@
   :block/created-at 1648385401637,
   :block/updated-at 1648385401637}
  {:block/name "复杂光照下的边缘检测",
-  :block/created-at 1654100506623,
-  :block/updated-at 1654100506623}
+  :block/created-at 1655432507993,
+  :block/updated-at 1655432507993}
  {:block/name "多态",
   :block/created-at 1648385401635,
   :block/updated-at 1648385401635}
@@ -846,8 +895,8 @@
   :block/created-at 1648385401637,
   :block/updated-at 1648385401637}
  {:block/name "实时人物布景动画的物理引擎",
-  :block/created-at 1654100506987,
-  :block/updated-at 1654100506987}
+  :block/created-at 1655432508179,
+  :block/updated-at 1655432508179}
  {:block/name "封装",
   :block/created-at 1648385401637,
   :block/updated-at 1648385401637}
@@ -863,6 +912,9 @@
  {:block/name "常量成员函数",
   :block/created-at 1648385401636,
   :block/updated-at 1648385401636}
+ {:block/name "序列转录模型",
+  :block/created-at 1655721884435,
+  :block/updated-at 1655721917327}
  {:block/name "引用",
   :block/created-at 1648385401637,
   :block/updated-at 1648385401637}
@@ -870,8 +922,8 @@
   :block/created-at 1648385401637,
   :block/updated-at 1648385401637}
  {:block/name "待读",
-  :block/created-at 1654100506621,
-  :block/updated-at 1654100506621}
+  :block/created-at 1655432507991,
+  :block/updated-at 1655432507991}
  {:block/name "心理动力学",
   :block/created-at 1648385401637,
   :block/updated-at 1648385401637}
@@ -908,12 +960,15 @@
  {:block/name "数据成员指针",
   :block/created-at 1648385401635,
   :block/updated-at 1648385401635}
+ {:block/name "数据集整理脚本",
+  :block/created-at 1656052048652,
+  :block/updated-at 1656052395533}
  {:block/name "数组",
   :block/created-at 1648385401637,
   :block/updated-at 1648385401637}
  {:block/name "整体嵌套的边缘检测",
-  :block/created-at 1654100801701,
-  :block/updated-at 1654106626161}
+  :block/created-at 1655432508622,
+  :block/updated-at 1655432508622}
  {:block/name "文件 io",
   :block/created-at 1648385401635,
   :block/updated-at 1648385401635}
@@ -924,8 +979,8 @@
   :block/created-at 1654100503747,
   :block/updated-at 1654100503747}
  {:block/name "有效边缘检测的像素差网络",
-  :block/created-at 1654100507724,
-  :block/updated-at 1654100507724}
+  :block/created-at 1655432509115,
+  :block/updated-at 1655432509115}
  {:block/name "术语积累",
   :block/created-at 1648385401636,
   :block/updated-at 1648385401636}
@@ -957,17 +1012,17 @@
   :block/created-at 1648385401635,
   :block/updated-at 1648385401635}
  {:block/name "游戏模型自动展uv",
-  :block/created-at 1654100508052,
-  :block/updated-at 1654100508052}
+  :block/created-at 1655432509335,
+  :block/updated-at 1655432509335}
  {:block/name "物理引擎",
-  :block/created-at 1654100505471,
-  :block/updated-at 1654100505471}
+  :block/created-at 1655432507028,
+  :block/updated-at 1655432507028}
  {:block/name "理财产品",
   :block/created-at 1651804826884,
   :block/updated-at 1651807733173}
  {:block/name "生成三维模型",
-  :block/created-at 1654100508636,
-  :block/updated-at 1654100508636}
+  :block/created-at 1655432509886,
+  :block/updated-at 1655432509886}
  {:block/name "用户交互",
   :block/created-at 1648385401635,
   :block/updated-at 1648385401635}
@@ -975,8 +1030,8 @@
   :block/created-at 1651491755251,
   :block/updated-at 1651491755251}
  {:block/name "礼物",
-  :block/created-at 1654100502065,
-  :block/updated-at 1654100502065}
+  :block/created-at 1655432509538,
+  :block/updated-at 1655432509538}
  {:block/name "移动语义",
   :block/created-at 1649230532184,
   :block/updated-at 1649230674629}
@@ -1010,15 +1065,18 @@
  {:block/name "编译链接",
   :block/created-at 1648385401637,
   :block/updated-at 1648385401637}
+ {:block/name "联合边缘检测与分割",
+  :block/created-at 1655432509710,
+  :block/updated-at 1655432509710}
  {:block/name "苹果分盘",
   :block/created-at 1651491755253,
   :block/updated-at 1651491755253}
  {:block/name "草图生成设计",
-  :block/created-at 1654100504458,
-  :block/updated-at 1654100504458}
+  :block/created-at 1655432508592,
+  :block/updated-at 1656052049906}
  {:block/name "菜鸟物流深度强化学习实现不同尺寸不规则物体装箱",
-  :block/created-at 1654100508700,
-  :block/updated-at 1654100508700}
+  :block/created-at 1655432510116,
+  :block/updated-at 1655432510116}
  {:block/name "表达式类别",
   :block/created-at 1649257136833,
   :block/updated-at 1649257136833}
@@ -1038,8 +1096,8 @@
   :block/created-at 1654100505955,
   :block/updated-at 1654100505955}
  {:block/name "边缘检测",
-  :block/created-at 1654100508635,
-  :block/updated-at 1654100801703}
+  :block/created-at 1655432508585,
+  :block/updated-at 1655432508585}
  {:block/name "运算符",
   :block/created-at 1648385401636,
   :block/updated-at 1648385401636}
@@ -1053,8 +1111,8 @@
   :block/created-at 1649257136833,
   :block/updated-at 1649257136833}
  {:block/name "通过多边形逼近不规则三维物品装箱",
-  :block/created-at 1654100508947,
-  :block/updated-at 1654100508947}
+  :block/created-at 1655432510504,
+  :block/updated-at 1655432510504}
  {:block/name "逻辑表达式",
   :block/created-at 1648385401635,
   :block/updated-at 1648385401635}
