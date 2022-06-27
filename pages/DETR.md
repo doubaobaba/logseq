@@ -1,3 +1,4 @@
+- ![2005.12872.pdf](../assets/2005.12872_1656310759488_0.pdf)
 - 算法
 	- DETR 模型最后输出是一个固定的集合，无论输入是什么，最后都会输出 N 个输出
 	- 问题：DETR 每次都会输出 100 个输出，但一张图片的 Ground Truth 的 banding box 只有几个，如果做匹配，去算 loss
@@ -137,7 +138,7 @@
 		- encoder 在学习一个全局的特征，尽可能让物体和物体之间分得开。但对于头、尾巴、对外围的点等这些极值点，就要交给 decoder，decoder 把所有的注意力都分到去学边缘。更好地区分物体，以及解决遮挡问题。
 		- 有点像之前做分割用的 U-net 结构，encoder 去抽一个更有语义的特征，decoder 一点一点把图片大小恢复出来，另外把更多的细节加进去，从而确保最后的分割效果或者图片重建的效果很好
 	- Object query 可视化
-	  ![image.png](../assets/image_1655714006991_0.png)
+	  ![image.png](../assets/image_1655714006991_0.png){:height 379, :width 700}
 		- 作者把 coco 的 validation set 里所有的图片得到最后所有的输出框全部可视化，虽然 N 是 100，但只画出其中 20 个，每一个正方形代表一个 Object query，验证 Object query 到底学了什么
 		- 图里绿色的点代表小的 banding box，红色的点代表大的横向的 banding box，蓝色的点代表竖向的，大的 banding box
 		- 图中分布，object query 和 anchor 还是比较像的。anchor 是提前先定义好 banding box，最后把预测和提前定义好的 banding box 做对比
